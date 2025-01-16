@@ -1,0 +1,16 @@
+release/main.o
+release/mainwindow.o
+release/medecin.o
+release/medecindialog.o
+release/medecinmanager.o
+release/patientdialog.o
+release/patientmanager.o
+release/patient.o
+release/rendezvous.o
+release/rendezvousdialog.o
+release/rendezvousmanager.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_medecindialog.o
+release/moc_patientdialog.o
+release/moc_rendezvousdialog.o

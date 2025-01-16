@@ -1,0 +1,11 @@
+<RCC>
+<qresource>
+    <file>icons/ajouter.png</file>
+    <file>icons/supprimer.png</file>
+    <file>icons/modifier.png</file>
+    <file>icons/fleche_bas.png</file>
+    <file>icons/logo.png</file>
+    <file>icons/app_icon.png</file>
+    <file>icons/arriereplan.png</file>
+</qresource>
+</RCC>
