@@ -40,7 +40,7 @@ Si vous voulez juste utiliser ce projet, il est conseillé de télécharger l'in
    git clone https://github.com/Tahaxy7/GestionHopital.git
 2. Installez les dépendances nécessaires.
 3. Compilez et exécutez le projet.
-=======
+
 # GestionHopital
 GestionHopital est une application de gestion hospitalière en C++ avec Qt et SQLite. Elle offre la gestion des patients, médecins, rendez-vous, et bien plus, avec une interface conviviale et des fonctionnalités adaptées aux besoins des hôpitaux.
 
