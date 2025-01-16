@@ -32,12 +32,12 @@ Pour modifier ce projet, assurez-vous d'avoir :
 ### Installation et Exécution
 Si vous voulez juste utiliser ce projet, il est conseillé de télécharger l'installateur **GestionCHU_Tahaxism_Installer.exe**  et de vider la base de données pour l'utiliser selon vos besoins.
 
-[![Télécharger l'installateur GestionCHU_Tahaxism_Installer.exe](https://img.shields.io/badge/Télécharger-Installateur-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Tahaxy7/Gestion_Hopital/refs/heads/master/GestionCHU_Tahaxism_Installer.exe)
+[![Télécharger l'installateur GestionCHU_Tahaxism_Installer.exe](https://img.shields.io/badge/Télécharger-Installateur-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Tahaxism/Gestion_Hopital/refs/heads/master/GestionCHU_Tahaxism_Installer.exe)
 
 #### À partir du code source :
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/Tahaxy7/GestionHopital.git
+   git clone https://github.com/Tahaxism/GestionHopital.git
 2. Installez les dépendances nécessaires.
 3. Compilez et exécutez le projet.
 
