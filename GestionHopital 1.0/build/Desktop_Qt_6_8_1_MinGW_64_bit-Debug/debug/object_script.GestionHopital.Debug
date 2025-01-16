@@ -1,0 +1,16 @@
+debug/main.o
+debug/mainwindow.o
+debug/medecin.o
+debug/medecindialog.o
+debug/medecinmanager.o
+debug/patientdialog.o
+debug/patientmanager.o
+debug/patient.o
+debug/rendezvous.o
+debug/rendezvousdialog.o
+debug/rendezvousmanager.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_medecindialog.o
+debug/moc_patientdialog.o
+debug/moc_rendezvousdialog.o
